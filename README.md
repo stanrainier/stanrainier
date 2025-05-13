@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Task Owl**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **NextJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
