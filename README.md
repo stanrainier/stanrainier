@@ -5,9 +5,9 @@
 
 <h3 align="center">Currently using GitLab</h3>
 
-- 🔭 I’m currently working on **Task Owl**
+- 🔭 I’m currently working on **MyTaskOwl**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Vue JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
